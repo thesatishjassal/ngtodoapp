@@ -1,4 +1,5 @@
 # TodoApp
+![image](https://user-images.githubusercontent.com/79718390/109389826-26bb4700-7934-11eb-9807-d92f8bc0c25e.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
