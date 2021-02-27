@@ -1,0 +1,10 @@
+<div class="card justify-content-between align-center mt-2">
+    <input 
+        type="text" 
+        name="todo" 
+        placeholder="Enter A New TODO"
+        class="form-control"
+        [(ngModel)]="todotitle"
+    />
+    <button class="btn btn-primary" (click)="handleAdd()">Add Todo</button>
+</div>

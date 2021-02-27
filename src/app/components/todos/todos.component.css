@@ -1,0 +1,10 @@
+.completedTodo {
+  color: darkgrey;
+  text-decoration: line-through;
+}
+.align-left {
+  text-align: left;
+}
+.align-center {
+  text-align: center;
+}
